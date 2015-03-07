@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultipleOnclickListener</string>
+    <string name="activity_main_first">First</string>
+    <string name="activity_main_second">Second</string>
+    <string name="activity_main_third">Third</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
